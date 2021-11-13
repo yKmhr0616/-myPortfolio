@@ -20,6 +20,10 @@
     margin-top: 2.5rem;
 }
 
+.history .card-title{
+  margin-left: 0.5rem;
+}
+
 .history > div > .card-body{
     padding-right: 0;
     padding-left: 0;
